@@ -72,3 +72,4 @@ systemctl start containerd
 systemctl restart docker
 systemctl restart kubelet
 systemctl restart containerd
+reboot
